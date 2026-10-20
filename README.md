@@ -2,8 +2,7 @@
 
 <h1>Hi, I'm Ziyi Sun (孙梓轶) 👋</h1>
 
-<p><strong>Embodied AI · Robot Learning · Humanoid Robotics</strong></p>
-
+<p><strong> Agentic Robot · Humanoid perception‑interaction · Tactile manipulation</strong></p>
 <p>Undergraduate @ <a href="https://www.ouc.edu.cn/">Ocean University of China</a> · Incoming M.S. @ <a href="http://www.ia.cas.cn/">CASIA</a> · Research Intern @ <a href="https://lab.roboparty.com/">RoboParty Lab</a></p>
 
 <a href="https://ziyisun85-ops.github.io/"><img src="https://img.shields.io/badge/Website-Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal website" /></a>
