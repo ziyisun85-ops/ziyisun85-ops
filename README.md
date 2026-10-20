@@ -42,12 +42,12 @@ My research focuses on **embodied intelligence** — perception, decision-making
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Selected Publication
 
 | Project | Description | Link |
 |---|---|---|
 | 🤸 **CHOREO: Every Humanoid Skill as a Trajectory** | arXiv preprint (2026). Trajectory-based framework for generalist humanoid skill learning. | [Project](https://github.com/ziyisun85-ops/Project-choreo) |
-| 🐟 **Eel-Like Robot Autonomous Obstacle Avoidance** | Two-stage learning framework for snake/eel-like robot navigation, accepted at IEEE RCAR 2026. ||
+| 🐟 **Eel-Like Robot Autonomous Obstacle Avoidance** | Two-stage learning framework for snake/eel-like robot navigation, accepted at IEEE RCAR 2026. |[Paper([https://mufanmufan.github.io/hitter-to-player/](https://ziyisun85-ops.github.io/assets/files/A_Two_Stage_Learning_Framework_for_Autonomous_Obstacle_Avoidance_of_an_Eel_Like_Robot.pdf)|
 | 🏓 **From Hitter to Player** | Competitive humanoid table tennis: separating motor execution and strategic play. RoboParty LAB. | [Project](https://mufanmufan.github.io/hitter-to-player/) |
 
 ---
