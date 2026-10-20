@@ -33,7 +33,7 @@ My research focuses on **embodied intelligence and robot learning**, especially 
 
 A training-free framework that unifies heterogeneous humanoid skills as executable trajectories and composes them into longer behaviors. Evaluated on **130 multi-action tasks** with the Unitree G1 in MuJoCo.
 
-[**Paper**](https://arxiv.org/abs/2609.22274) · [**Project Page**](https://ziyisun85-ops.github.io/Project-choreo/) · [**Project Repository**](https://github.com/ziyisun85-ops/Project-choreo)
+[**Paper**](https://arxiv.org/abs/2609.22274) · [**Project Page**](https://ziyisun85-ops.github.io/Project-choreo/)
 
 ### 🏓 From Hitter to Player: Separating Motor Execution and Strategy in Competitive Humanoid Table Tennis
 
